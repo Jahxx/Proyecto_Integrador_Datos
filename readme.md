@@ -112,4 +112,4 @@ El script `preprocesar_datos.py` realiza las siguientes operaciones:
 
 ## Enlace al Repositorio
 
-- [Repositorio de datos preprocesados]()
+- [Repositorio de datos preprocesados](https://github.com/Jahxx/Proyecto_Integrador_Datos)
