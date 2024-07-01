@@ -1,0 +1,11 @@
+producto_id,nombre,descripcion,precio
+1,Margherita,"Pizza clásica con tomate, mozzarella y albahaca.",150.0
+2,Pepperoni,"Pizza con pepperoni, mozzarella y salsa de tomate.",150.0
+3,Hawaiana,"Pizza con jamón, piña y mozzarella.",150.0
+4,Cuatro Quesos,"Pizza con una mezcla de mozzarella, gorgonzola, parmesano y queso azul.",150.0
+5,Vegetariana,Pizza con una variedad de verduras frescas y mozzarella.,150.0
+6,Barbacoa,"Pizza con salsa barbacoa, pollo, cebolla y mozzarella.",150.0
+7,Pollo y Champiñones,"Pizza con pollo, champiñones, mozzarella y salsa de tomate.",150.0
+8,Mexicana,"Pizza con jalapeños, chorizo, frijoles y mozzarella.",150.0
+9,Carbonara,"Pizza con crema, panceta, cebolla y mozzarella.",150.0
+10,Prosciutto,"Pizza con jamón crudo, rúcula y mozzarella.",150.0

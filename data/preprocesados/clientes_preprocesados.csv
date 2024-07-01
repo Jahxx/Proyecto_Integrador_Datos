@@ -1,0 +1,201 @@
+cliente_id,nombre,direccion,email,telefono
+1,Guillermina Hinojosa,"Calzada Nuevo León 335 595
+San Juan Carlos de la Montaña, BCS 60091",dmireles@example.net,1-922-021-6312x1598
+2,Enrique Lozano Gamboa,"Continuación Montenegro 964 Interior 231
+San Ofelia de la Montaña, ZAC 17121",zgomez@example.com,(195)508-0329x6846
+3,Estefanía Chacón Calderón,"Cerrada Reyna 583 842
+Vieja Finlandia, BC 27367-4680",eliascamarillo@example.com,(496)368-0923
+4,Lucas Porras,"Prolongación Nuevo León 367 503
+San Emiliano los bajos, JAL 56931",marco-antoniobarela@example.com,(403)249-5212
+5,Natividad Nayeli Vera Alcaraz,"Avenida Seychelles 198 Edif. 638 , Depto. 068
+Vieja Malasia, JAL 14974",camachorocio@example.org,(806)050-8324
+6,Asunción Santacruz Gil,"Privada Quintana Roo 337 Edif. 005 , Depto. 902
+Nueva Benin, MOR 09687-0865",ncasares@example.com,(436)108-3735x16505
+7,Wilfrido Meléndez,"Corredor Sur Mendoza 397 Interior 134
+Nueva Mozambique, TLAX 47952",davilasergio@example.com,1-374-219-7686x976
+8,Israel Uriel Balderas Ruelas,"Calle Ureña 947 767
+Vieja Sudáfrica, PUE 84890-5259",pcarrillo@example.net,08643721820
+9,Frida Pelayo Venegas,"Privada Norte Villalobos 904 Edif. 109 , Depto. 159
+Vieja Islas Marshall, COL 29720",cintronjacinto@example.net,+28(8)2999931687
+10,Carla Anel Posada,"Corredor Sonora 113 Interior 857
+Vieja India, QRO 33275-8070",estelafonseca@example.org,1-602-492-1818x59761
+11,Ing. Lilia Jaime,"Viaducto Nicaragua 226 920
+San Isaac los bajos, BC 57191-2920",nontiveros@example.com,(455)666-2185
+12,José Carlos Benito de la Crúz,"Prolongación Norte Saiz 052 714
+San José María de la Montaña, CHIH 71876-5361",timoteo08@example.net,1-325-452-5522x699
+13,Dalia Francisco Javier Jasso,"Cerrada Sur Jaimes 298 Interior 205
+San Guadalupe de la Montaña, SON 87598-7152",patriciatellez@example.com,423.443.7412x2088
+14,Mtro. Clara Paredes,"Periférico Montañez 069 Interior 051
+Nueva Santo Tomé y Príncipe, SIN 85182",natividad79@example.org,873.238.8172
+15,Gonzalo Carrión,"Retorno Eslovenia 316 214
+Nueva Nicaragua, TAMPS 39488-4763",aldovigil@example.net,062.219.3020
+16,Abraham Perla Romo Ferrer,"Calle Chiapas 175 843
+San Miguel Ángel los altos, YUC 15184",norma38@example.org,03652008332
+17,Lic. Rolando Herrera,"Retorno Sur Olivas 627 507
+Vieja Lesotho, CHIS 55182-8687",garridoteodoro@example.org,(115)176-6023
+18,Magdalena Enrique Reséndez,"Diagonal Islas Marshall 388 708
+Vieja Irlanda, DGO 99381-9379",tserna@example.net,414-881-5128
+19,Jonás Paulina Gollum Sevilla,"Circunvalación Nauru 578 Interior 066
+San Jaime los altos, CAMP 09246",tapiajose-maria@example.com,1-022-924-7378x988
+20,José Luis Rosario Maestas,"Callejón Swazilandia 236 Interior 053
+Vieja Burkina Faso, TAB 91977-6358",augusto49@example.org,(456)743-7634x761
+21,César Rafaél Castellanos,"Peatonal Tamaulipas 995 065
+San Eugenia los bajos, NL 24464-1677",minerva07@example.net,461.600.6708x6496
+22,Nadia Quesada,"Diagonal Veracruz de Ignacio de la Llave 541 Interior 019
+San Jesús los bajos, SIN 25607",abelloera@example.org,1-551-911-9938x942
+23,Julio Portillo,"Cerrada Norte Guerrero 122 502
+San Irene los bajos, SON 52101",yeni75@example.net,764-914-0516x732
+24,Yuridia Cazares,"Circuito Pakistán 678 Interior 009
+San José Manuél los altos, DGO 72572-7588",msotelo@example.com,337.464.8780x4603
+25,Santiago Cedillo,"Corredor Fuentes 402 Edif. 691 , Depto. 362
+Nueva Islandia, ZAC 31716-5775",elsa14@example.org,05654223180
+26,Patricio Fabiola Saavedra Gastélum,"Circuito Michoacán de Ocampo 200 Edif. 436 , Depto. 214
+Vieja Irán, TAMPS 92791-1546",carranzaaurora@example.net,006.631.7136
+27,Julia Arteaga,"Callejón Nayarit 564 Interior 597
+Vieja Samoa, BCS 85647",aliciacrespo@example.com,042-995-5484
+28,Elisa López Velásquez,"Diagonal Norte Ojeda 331 091
+San Berta los bajos, CAMP 31332",antonio35@example.org,081.790.3132x5787
+29,Rubén Sisneros Gaona,"Pasaje Alejandro 091 Interior 954
+Nueva Mozambique, MICH 34771",catalina93@example.com,07477739136
+30,Esmeralda Mauro Sotelo Hurtado,"Pasaje Rubio 448 Interior 616
+Vieja Eslovenia, DF 94630",sernacaridad@example.org,(465)761-0457
+31,Raquel Báez Monroy,"Periférico México 816 683
+San Gerardo los altos, BCS 12453",ignaciogaribay@example.com,307.783.4968
+32,Nicolás Vega,"Calzada Reyes 444 383
+Vieja Tayikistán, SON 28146-1206",xcollado@example.com,411-739-4409x04754
+33,Mtro. Luis Miguel Cordero,"Peatonal Sinaloa 834 227
+Nueva Nueva Zelandia, HGO 65446",mario13@example.org,+31(0)0684103600
+34,Perla Lugo Corona,"Retorno Malasia 306 Interior 455
+Nueva Federación de Rusia, SLP 10867-6698",guadalupequiroz@example.net,(912)677-4039
+35,Dr. César Márquez,"Diagonal Otero 225 Interior 007
+San Mauricio los altos, ZAC 96137-6832",helena73@example.com,503.062.5528x863
+36,Horacio Bernabé Mata,"Boulevard Distrito Federal 123 Edif. 366 , Depto. 533
+San Óscar de la Montaña, SIN 96315-3136",maria-luisa93@example.com,132.602.9451x00506
+37,Javier Carrera Raya,"Corredor Chihuahua 250 Interior 166
+San Agustín los altos, BCS 64395-9453",villalobosgabriel@example.com,+70(2)6907408070
+38,Ricardo Abraham Amador,"Ampliación Sur Toro 402 Interior 944
+Nueva Ecuador, AGS 10850",ribarra@example.org,06361534158
+39,Ing. Pascual Madera,"Privada Gil 481 919
+Nueva Tailandia, SON 51118",fariassocorro@example.com,1-690-890-0976x9174
+40,Ana María Moya,"Peatonal Baja California Sur 860 Interior 943
+San Estefanía los bajos, COL 65156-8609",raelzacarias@example.org,(323)079-3380x4309
+41,Nelly Girón,"Eje vial Zacatecas 487 Edif. 810 , Depto. 679
+San Israel de la Montaña, GTO 92375",ivan63@example.com,257.756.0015
+42,Julio César Mariano Peralta Gutiérrez,"Peatonal México 681 Interior 382
+San José Manuél de la Montaña, GTO 31057-6991",alejandroariadna@example.net,622-882-8867x04314
+43,José Manuél Altamirano,"Periférico Nueva Zelandia 951 Edif. 857 , Depto. 854
+Nueva Islas Marshall, VER 51910",toledohelena@example.net,1-862-548-5801x822
+44,Lic. Carmen Negrete,"Pasaje Norte Olmos 184 Edif. 932 , Depto. 125
+Vieja Tuvalu, CAMP 92930-1136",felipecandelaria@example.com,+78(2)3379903176
+45,Julio César Roque Oquendo,"Continuación Aguascalientes 195 Interior 388
+San Elsa los altos, MEX 37710-3272",gironeugenio@example.com,509-967-2657x28125
+46,Mariano Monroy Urrutia,"Pasaje Chiapas 513 Interior 043
+Nueva Granada, CHIS 63656",apodacajuana@example.org,554.646.7901x9151
+47,Elias Marcos Espino,"Prolongación Sur Romo 686 Interior 952
+Vieja Dinamarca, BCS 26853",nicolas95@example.org,01155821563
+48,Ing. Marco Antonio Casillas,"Retorno Llamas 087 805
+San Isabela de la Montaña, GTO 43448",lucia42@example.org,(588)136-2419
+49,Luz de la Crúz,"Calle Liechtenstein 414 151
+Vieja Somalia, VER 75736-5866",hermelinda64@example.org,252-343-0160x292
+50,Dolores Carla Rentería Porras,"Privada Lituania 634 Edif. 598 , Depto. 544
+San Leticia de la Montaña, PUE 45099-7610",moralescristian@example.com,(667)170-9041x6918
+51,Adalberto Sandoval,"Boulevard Gaytán 126 Interior 107
+San Gilberto los altos, MEX 82320-8953",jiglesias@example.org,930-513-8962
+52,Aurelio Mariano Quintanilla Linares,"Ampliación Bolivia 740 608
+Vieja Afganistán, COAH 63946-9991",barbaramelgar@example.net,1-523-589-1557x838
+53,Jonás Eduardo Gálvez Cervántez,"Andador Valencia 118 Edif. 538 , Depto. 046
+Vieja Malta, AGS 67666-0227",ferreralicia@example.com,555-411-1994
+54,Luis Manuel Aguirre Merino,"Retorno Emiratos Árabes Unidos 344 Edif. 601 , Depto. 873
+San Santiago los altos, SLP 96106",emilianoaguilar@example.com,941-922-3984x7143
+55,Luisa Lozano Moya,"Continuación Malta 040 383
+Nueva Serbia, AGS 36699",amelia06@example.net,1-917-522-0048x260
+56,Sonia Moreno Arroyo,"Periférico Zacatecas 393 Interior 326
+San Gregorio de la Montaña, BCS 91709",patricia28@example.com,940.045.8739
+57,Amanda Abraham Noriega,"Avenida Grecia 482 Edif. 700 , Depto. 663
+Vieja República de Macedonia del Norte, MEX 23061",sessagaray@example.com,(794)209-8684x8365
+58,Abraham Madera,"Circunvalación Sur Orozco 189 591
+Vieja Qatar, VER 45208",henriquezrodolfo@example.net,762-301-0386
+59,Clemente Socorro Gonzales,"Privada Mireles 108 Interior 208
+Nueva Ecuador, NAY 43673-2308",toledorosalia@example.org,+74(2)9525396594
+60,Mateo Iglesias,"Retorno Loera 474 Edif. 998 , Depto. 590
+San Gabriel los altos, ZAC 85276-8788",celia80@example.org,1-056-523-2282
+61,Fernando Lucero,"Circunvalación Sur Zambrano 752 Interior 703
+Vieja Comoras, CAMP 14568",rocio35@example.org,+57(1)7506930703
+62,Pamela Benítez,"Callejón República Democrática Popular Lao 307 Edif. 911 , Depto. 041
+Nueva Montenegro, BC 07738-5579",obarraza@example.org,1-593-123-0060x301
+63,Lic. Alta  Gracia Montes,"Circuito Sur Miramontes 602 Edif. 370 , Depto. 443
+Nueva Nueva Zelandia, PUE 15080",lorena22@example.com,1-147-547-1978x150
+64,Adalberto Candelaria,"Continuación Ríos 830 070
+Nueva Marruecos, COAH 10894",hsaldivar@example.org,(261)947-4009
+65,Lic. Luz Valencia,"Circunvalación Zambia 692 112
+Vieja Barbados, COAH 58263",estelamendoza@example.net,09433924768
+66,Vicente Eugenia Venegas Guajardo,"Privada Norte Romero 907 Interior 316
+Vieja El Salvador, TLAX 91436-9961",lcalvillo@example.net,343-509-0456
+67,Marcela Viera Vázquez,"Peatonal Campeche 199 Edif. 254 , Depto. 445
+San Jesús los altos, JAL 33642-2777",felipecenteno@example.net,(349)612-8680x382
+68,Mario Yolanda Téllez Berríos,"Andador Tlaxcala 784 Interior 050
+Nueva Santo Tomé y Príncipe, VER 38436",maximilianotrejo@example.com,836-391-2618
+69,Porfirio Camila Castillo Arredondo,"Pasaje Belarús 523 Edif. 194 , Depto. 689
+Nueva Antigua y Barbuda, COL 81637",juanlucero@example.net,+00(0)7383398917
+70,Marisol Bustos,"Pasaje Ulibarri 529 765
+San Guillermo los altos, NAY 73641-5532",zedillomartin@example.com,05040842304
+71,Daniel de la O Merino,"Prolongación Guerrero 627 Edif. 681 , Depto. 696
+San Andrea los altos, CHIS 07916",ontiverosoctavio@example.com,880-707-5588
+72,Gustavo Enrique Heredia Quintanilla,"Boulevard Galván 498 Interior 135
+Vieja Israel, PUE 98996",emiliacortes@example.org,03634202980
+73,Camila María Luisa Acevedo,"Circuito Coahuila de Zaragoza 145 107
+San Jaime los altos, YUC 23828-9672",uriasariadna@example.net,+59(5)6877497256
+74,Aldo Rafaél Montero Grijalva,"Eje vial Croacia 567 561
+Nueva Finlandia, VER 37294",hrobles@example.com,(435)767-2142x998
+75,Manuel Ocasio Razo,"Andador Bétancourt 480 844
+Nueva Kazajstán, BCS 57309",qnarvaez@example.com,845.273.1880
+76,David Omar Cardona,"Circunvalación Flores 914 Interior 075
+San Esteban los altos, TAB 65875",ncotto@example.org,880-432-0535
+77,Mtro. Jacobo Lomeli,"Pasaje Sur Cano 193 Edif. 570 , Depto. 347
+Vieja Serbia, JAL 44347",lparedes@example.net,1-804-243-8274
+78,Yuridia Rodríquez,"Calle Distrito Federal 847 874
+San Cynthia los bajos, COAH 86091-4655",qgil@example.com,+22(0)3319179054
+79,Zoé Miguel Ángel Ávalos Rodríquez,"Avenida Sur Cantú 328 Edif. 826 , Depto. 590
+San Natalia los bajos, TLAX 96117-0262",yuridia57@example.com,+24(5)5152035045
+80,José Eduardo Bruno Sotelo,"Periférico Georgia 631 066
+Nueva Tailandia, VER 09409",eva70@example.com,1-435-943-0333x07520
+81,Sr(a). Eva Enríquez,"Circuito Arabia Saudita 116 Interior 841
+San Alberto los altos, MOR 00013",bestevez@example.org,341-512-4991x4034
+82,Lilia Aguilera Gaitán,"Cerrada Saldivar 655 825
+Nueva Finlandia, TAMPS 77155",carlota15@example.net,1-853-649-9724x65453
+83,Minerva Mariana Bonilla Montenegro,"Privada Albania 425 Interior 119
+Vieja Kuwait, BCS 68150",natalia33@example.net,+86(5)2958604744
+84,Mtro. Rodrigo Ordóñez,"Peatonal Sinaloa 983 Interior 199
+San Abril los altos, ZAC 36290",bmadrid@example.com,1-856-962-8349
+85,Antonio Ávila,"Avenida Gutiérrez 941 570
+San Porfirio los bajos, SON 55666",ramiroacuna@example.com,(020)142-9680x564
+86,Minerva Rosalia Alcaraz,"Calzada Emiratos Árabes Unidos 555 841
+San José Emilio de la Montaña, VER 32662",nsolis@example.org,+42(6)4842269657
+87,Benito Socorro Armendáriz Sandoval,"Pasaje Bhután 848 Edif. 850 , Depto. 824
+Vieja Albania, COAH 08710",anayaivonne@example.net,559-016-4004x54346
+88,Ing. Patricia Pérez,"Andador Nuevo León 295 054
+San Eugenia los bajos, OAX 47667",carolinaolvera@example.net,548-612-3211x770
+89,Virginia Bustamante Hurtado,"Andador México 789 159
+San José de la Montaña, ZAC 02433",adrianade-la-garza@example.net,512.386.6322
+90,Patricio Rafaél Esparza,"Viaducto Sur Salazar 448 308
+Vieja Sri Lanka, JAL 93567-5849",yolandarosas@example.com,936.699.5862x5743
+91,Cristian Mena Vallejo,"Cerrada Sur Guerra 051 Edif. 911 , Depto. 265
+San Jonás los bajos, AGS 14100",aparicioaurelio@example.net,(722)665-2616
+92,Hermelinda Guajardo,"Diagonal Líbano 660 Edif. 950 , Depto. 222
+Vieja República Federal Democrática de Nepal, CAMP 17973",jorge-luislebron@example.com,1-619-441-7705x563
+93,Asunción Lucas Girón,"Pasaje Michoacán de Ocampo 963 083
+San Julia los bajos, JAL 95619-1239",barajasirene@example.com,1-852-347-5244
+94,Reynaldo Chávez,"Calzada Tamaulipas 367 Edif. 597 , Depto. 603
+San Irma de la Montaña, TLAX 92485-1455",gustavozelaya@example.org,1-143-977-7540x586
+95,Cristian Karla López,"Eje vial Austria 033 068
+San Cecilia los bajos, MOR 15879-3515",adelaabreu@example.org,1-135-140-9684x0525
+96,Minerva Serna Angulo,"Periférico Dávila 855 064
+Vieja Estados Unidos de América, SON 12731-5422",carmonanoemi@example.net,(812)342-9114x112
+97,Lourdes Víctor Salgado,"Calzada Esquibel 720 Edif. 508 , Depto. 448
+Vieja Suriname, COAH 72050",ana-maria95@example.net,1-487-476-6332x17490
+98,Aldonza Juárez Báez,"Circunvalación Panamá 870 Interior 097
+San Aldonza de la Montaña, COAH 85636-2823",hrodriquez@example.com,1-965-042-0394x411
+99,Martha Orellana,"Pasaje Cordero 897 Edif. 882 , Depto. 146
+San Julia los bajos, SLP 08225-1419",hgriego@example.net,08818984842
+100,Raquel Berta Garay Rascón,"Cerrada Gallardo 625 133
+San Celia los altos, TAMPS 97627",omondragon@example.net,352-215-7490
